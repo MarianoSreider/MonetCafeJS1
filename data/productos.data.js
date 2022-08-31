@@ -47,7 +47,7 @@ const productos = [
     {
         categoria:1,
         precio:910,
-        descripcion:  "Origin Brazil es elegante y delicado, y no es amargo ni ácido. Sus clásicas notas de cereales dulces brasileños y un toque de grano tostado lo convierten en un ganador si estás buscando un café excepcionalmente suave y dulce.",
+        descripcion:  "Origin Brazil es elegante y delicado, y no es amargo ni ácido. Sus clásicas notas de cereales dulces brasileños y un toque de grano tostado lo convierten en un ganador.",
         nombre:"BRASIL CAFE",
         slug: "brasiliann",
         
