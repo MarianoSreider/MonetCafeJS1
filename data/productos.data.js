@@ -20,7 +20,7 @@ const productos = [
     {
         categoria:1,
         precio:890,
-        descripcion:  "Nicaragua Coffee recrea el sabor centro-americano equilibrado y agradable, inspirado en la tradición centenaria de las cafeterías del país con sus lujosos establecimientos y elegantes camareros. En esta taza suave, las notas dulces a cereales de los granos procesados de forma natural, se mezclan con las notas frutales de un Arábica colombiano lavado. Juntos ofrecen un sabor a cereal malteado y una textura sedosa que canta con la cálida grandeza de una composición clásica de café Nicaraguense.",
+        descripcion:  "Nicaragua Coffee recrea el sabor centro-americano equilibrado y agradable, inspirado en la tradición centenaria de las cafeterías del país con sus lujosos establecimientos y elegantes camareros. En esta taza suave, las notas dulces a cereales de los granos procesados de forma natural, se mezclan con las notas frutales de un Arábica colombiano lavado.",
         nombre:"NICARAGUA CAFE",
         slug: "nicaraguan",
         
