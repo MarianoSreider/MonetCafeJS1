@@ -29,27 +29,27 @@ const productos = [
     {
         categoria:1,
         precio:920,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        descripcion:  "Inspirado en el cerezo, mantiene cordura, elegancia, fragancia. Café dulce pero ácido, amargo y delicado.",
         nombre:"JAPAN CAFE",
-        slug: "colombia",
+        slug: "japann",
         
         cantidad: 1,
     },
     {
         categoria:1,
         precio:950,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        descripcion:  "De Cuerpo liviano, delicado en nariz y boca. Notas dulces a cereales que lo caracterizan.",
         nombre:"CHINA CAFE",
-        slug: "colombia",
+        slug: "chinesen",
         
         cantidad: 1,
     },
     {
         categoria:1,
         precio:910,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        descripcion:  "Origin Brazil es elegante y delicado, y no es amargo ni ácido. Sus clásicas notas de cereales dulces brasileños y un toque de grano tostado lo convierten en un ganador si estás buscando un café excepcionalmente suave y dulce.",
         nombre:"BRASIL CAFE",
-        slug: "nicaragua",
+        slug: "brasiliann",
         
         cantidad: 1,
     },
@@ -77,18 +77,18 @@ const productos = [
     {
         categoria:2,
         precio:480,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        descripcion:  "Un pastel de terciopelo rojo es un pastel de chocolate con un color rojo oscuro o rojo brillante. Por lo general es preparado como un pastel en capas cubierto con un glaseado de queso cremoso o roux cocinado. Los ingredientes comunes son mantequilla, harina, cacao, y colorante de remolacha o de comida roja.",
         nombre:"Torta Velvet",
-        slug: "galeria1",
+        slug: "velvetn",
         
         cantidad: 1,
     },
     {
         categoria:2,
         precio:390,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        descripcion:  "Consiste en una crema suave y espumosa, que se sirve sola o se utiliza para rellenar tartas dulces. Este postre se puede elaborar con chocolate blanco o negro, dependiendo el resultado final de la calidad del chocolate empleado. Sus principales ingredientes son huevo, azúcar, chocolate, mantequilla o nata.",
         nombre:"Torta Mousse",
-        slug: "galeria1",
+        slug: "mousen",
         
         cantidad: 1,
     },
@@ -98,54 +98,54 @@ const productos = [
     {
         categoria:3,
         precio:180,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        descripcion:  "FILTRO DE PAPEL #4 PARA CAFÉ MELITTA 12 CAJAS DE 30 UN, ORIGEN BRASIL.",
         nombre:"Filtro",
-        slug: "galeria2",
+        slug: "filtron",
         
         cantidad: 1,
     },
     {
         categoria:3,
         precio:1900,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        descripcion:  "Cafetera Negra De Vidrio Medidas: 16x10cm Color: Metal Origen: China",
         nombre:"Cafetera",
-        slug: "galeria2",
+        slug: "cafeteran",
         
         cantidad: 1,
     },
     {
         categoria:3,
         precio:1020,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        descripcion:  "Potencia: 180 watts. Usalo también para moler especias y frutos secos. Cuchilla y recipiente de acero inoxidable para conservar el sabor de los ingredientes.",
         nombre:"Molinillo",
-        slug: "galeria2",
+        slug: "molinillon",
         
         cantidad: 1,
     },
     {
         categoria:3,
         precio:580,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
+        descripcion:  "Cafetera Volturno Clásica 12 pocillos manual aluminio italiana.",
         nombre:"Volturno",
-        slug: "galeria2",
+        slug: "volturnon",
         
         cantidad: 1,
     },
     {
         categoria:3,
         precio:780,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"Vialetti",
-        slug: "galeria2",
+        descripcion:  "CAFETERA MOKINA TRICOLOR",
+        nombre:"Bialetti",
+        slug: "bialettin",
         
         cantidad: 1,
     },
     {
         categoria:3,
         precio:280,
-        descripcion:  "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Officia ea a debitis cum nulla eligendi! Deserunt vitae",
-        nombre:"Taza",
-        slug: "galeria2",
+        descripcion:  "2 Tazas TOUCH Lungo",
+        nombre:"Tazas",
+        slug: "tazaslungon",
         
         cantidad: 1,
     },
